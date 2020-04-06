@@ -10,6 +10,5 @@ package Hotel;
  * @author User
  */
 public enum Status {
-    FREE,FULL,RESERVED;
-    
+    FREE,FULL,RESERVED,test;
 }
